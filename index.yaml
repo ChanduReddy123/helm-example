@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  nginx-test:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-10-21T17:10:13.777571083+05:30"
+    description: A Helm chart for testing environment variables
+    digest: e15910853f743e133be95a64ed787931c6e62113afd734e063866cce4cdaa616
+    name: nginx-test
+    urls:
+    - https://github.com/ChanduReddy123/helm-example.git/nginx-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-21T17:10:13.776730137+05:30"
